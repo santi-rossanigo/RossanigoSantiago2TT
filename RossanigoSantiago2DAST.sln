@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 1", "Unidad 1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1", "TP1\TP1.csproj", "{C99C7DE1-44A7-432B-A667-B210709FD1FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 2", "Unidad 2", "{ACF91E57-A390-42D4-B087-24F4DA3A3675}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 3", "Unidad 3", "{F2C83064-ED58-4A52-A01D-700F9C26D8B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 4", "Unidad 4", "{BF6424F2-2E97-48EC-A489-417300181B8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad 5", "Unidad 5", "{2CA571EA-031F-4657-AF9A-6610348B0BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99C7DE1-44A7-432B-A667-B210709FD1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99C7DE1-44A7-432B-A667-B210709FD1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99C7DE1-44A7-432B-A667-B210709FD1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99C7DE1-44A7-432B-A667-B210709FD1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C99C7DE1-44A7-432B-A667-B210709FD1FB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AEEAE5-2C1F-4BD3-8DAE-1C207B354B54}
+	EndGlobalSection
+EndGlobal
